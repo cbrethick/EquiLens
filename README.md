@@ -128,7 +128,7 @@ vercel --prod
 
 ## 👨‍💻 Author
 
-**Rethick CB** — Google Solution Challenge 2026 · Build with AI Track
+**Rethick-Nakshatra-Ashwitha** — Google Solution Challenge 2026 · Build with AI Track
 
 ---
 
